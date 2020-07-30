@@ -1,0 +1,5 @@
+setTimeout
+set 
+Timeout
+document.cookie
+cookie
